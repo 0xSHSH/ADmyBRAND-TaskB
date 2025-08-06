@@ -36,7 +36,7 @@ A modern, responsive SaaS landing page for ADmyBRAND AI Suite built with React, 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/0xSHSH/ADmyBRAND-TaskB
    cd admybrand-landing
    ```
 
